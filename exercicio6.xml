@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<aluna>
+    <nome>Fernanda Oliveira</nome>
+    <turma>1127 DevOps</turma>
+    <filmes>
+        <titulo>Vida de Inseto</titulo>
+        <titulo>Matrix</titulo>
+        <titulo>Ele não está tão afim de você</titulo>
+    </filmes>
+    <livros>
+        <titulo>Código Limpo</titulo>
+        <titulo>Manual de DevOPs</titulo>
+        <titulo>Storytelling com Dados</titulo>
+    </livros>
+    <comidas>
+        <prato>Sopinha de legumes</prato>
+        <prato>Chili</prato>
+        <prato>Tabule</prato>
+    </comidas>
+</aluna>
